@@ -4,7 +4,7 @@ Repositório com exemplo do uso do github page
 
 <h1>Como adicionar no github pages</h1>
 
-- Torne o repositório público
+- Torne o repositório público;
 - Vá até `Settings`;
 - Selecione no menu a opção `Pages`;
 - Em branch seleciona `main`;
